@@ -24,4 +24,6 @@ Jina AI Prompt Perfect API key generation link: https://promptperfect.jina.ai/ap
 
 Open AI GPT API key generation link: https://platform.openai.com/account/api-keys
 
-Project Repository Link: 
+Project Repository Link: https://drive.google.com/drive/folders/15aiQKJLEbvrqef35ntZV96Ib7V75nAdW?usp=sharing
+
+Note: Add your own keys of GPT API in the environment.ts files and PromptPerfect API in the customer-support.component.ts file.
