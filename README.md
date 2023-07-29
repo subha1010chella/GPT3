@@ -20,6 +20,8 @@ Simply choose your age category, type in your keywords or questions, and let the
 Let's embark on a journey of learning and discovery together with Smarty Talk. 
 Get ready to explore a world of information with ease and joy. Happy chatting and happy learning! 🌟
 
-Jina AI Prompt Perfect API key generation link: https://promptperfect.jina.ai/api
+Jina AI Prompt Perfect API key generation link: https://promptperfect.jina.ai/api 
+
 Open AI GPT API key generation link: https://platform.openai.com/account/api-keys
+
 Project Repository Link: 
